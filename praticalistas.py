@@ -10,3 +10,9 @@ print(vetor3)
 print(type(vetor3))
 
 print(vetor3[1])
+
+print(vetor3[1:])
+print(vetor3[2:])
+print(vetor3[:3])
+print(vetor3[:4])
+print(vetor3[1:4])
