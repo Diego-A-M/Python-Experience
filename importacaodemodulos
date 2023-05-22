@@ -1,0 +1,3 @@
+    import potenciação
+
+    print(potenciação.funcao1(5,2))
